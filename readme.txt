@@ -1,7 +1,23 @@
+=== Plugin Name ===
 Plugin Name: Social Bookmarking RELOADED
-Version: 2.0
+Version: 2.1
 Author: valent
-Plugin URI: http://www.valent-blog.eu
+Plugin URI: http://www.valent-blog.eu/social-bookmarking-reloaded/
+
+Contributors: vfvalent
+Donate link: http://valent-blog.eu/info/
+Tags: bookmarks, bookmarking, social, delicious, digg, technorati
+Requires at least: 2.0.2
+Tested up to: 2.2.1
+Stable tag: 2.1
+
+The Social Bookmarking RELOADED plugin for WordPress adds a list of XHTML 
+compliant graphic links at the end of your posts and/or pages that allow your visitors to easily 
+submit them in a number of social bookmarking sites.
+Furthermore, the plugin adds a page in the WordPress admin section that lets you customize it. 
+See the Customization section below for details.
+
+== Description ==
 
 Based on GNU GPL plugin:
 
@@ -20,7 +36,7 @@ Social Bookmarking RELOADED è un plugin basato sul plugin Social Bookmarks 3.2.
 Dalla versione 1.0 alla versione 1.7 di RELOADED il plugin si chiamava Social Bookmarks RELOADED, ora ha preso il nome di Social Bookmarking RELOADED.
 Il plugin non fa altro che aggiungere delle icone che consentono una rapida segnalazione dei post e dei commenti presso i princiali social boormarking service. Da questa versione sono supportati ben 36 servizi, tra i quali parecchi italiani:
 
-The following 36 sites are supported:
+The following 37 sites are supported:
 
         * Del.icio.us
         * digg
@@ -58,6 +74,14 @@ The following 36 sites are supported:
         * del.irio.us (need impr)
         * Socialdust
         * Live - MSN
+	* Slashdot
+
+What is new in version Social Bookmarking RELOADED 2.1
+-------------------------------------------------------
+Add slashdot, rewrite of this readme file in order to be compatible with WP.org
+
+Aggiunto slashdot, riscrittura di questo readme per rendere il plugin compatibile con WP.org
+
 
 What is new in version Social Bookmarking RELOADED 2.0
 -------------------------------------------------------
@@ -70,7 +94,6 @@ What is new in version Social Bookmarking RELOADED 1.91
 -------------------------------------------------------
 Bugs fixed.
 Correzione dei bug.
-
 
 
 What is new in version Social Bookmarking RELOADED 1.9
@@ -88,80 +111,32 @@ In this version I added SocialDust. Read how to update.
 A partire da questa versione il plugin è stato rinominato in Social Bookmarking RELOADED, per seguire gli standard dei plugin di WP.
 Aggiunto SocialDust. Leggere le istruzioni di aggiornamento.
 
-Update Instructions (from version RELOADED 1.8) - Aggiornamento del plugin (dalla versione 1.8)
------------------------------------------------------------------------------------------------
-Upload all the contents of the social-bookmarking-reloaded directory to your wp-content/plugins/social-bookmarking-reloaded directory.
-Delete the folder social-bookmarks-reloaded.
-Than activate the plugin in plugin menu of control pan.
+== Installation ==
 
-How to Install - Installazione
-------------------------------
 If you have never use this plugin or a previous version, you have extract the archive file (.zip) and upload the folder social-bookmarking-reloaded in wp-content/plugins of your web space.
 Than activate the plugin in plugin menu of admin control pannel.
 
 Se non si ha mai installato una versione precedente del plugin, è necessario estrarre il contenuto del file .zip e caricare la cartella social-bookmarking-reloaded e i suoi file nella directory wp-content/plugins che si trova sullo spazio web che ospita Wordpress.
 Successivamente manca solo di attivare il plugin nel menu plugin del pannello di controllo dell'amministratore.
 
+== Screenshots ==
+
+1. example.png
+
+== Arbitrary section ==
+
+Update Instructions (from version RELOADED 1.8) - Aggiornamento del plugin (a partire dalla versione 1.8)
+---------------------------------------------------------------------------------------------------------
+Upload all the contents of the social-bookmarking-reloaded directory to your wp-content/plugins/social-bookmarking-reloaded directory.
+Delete the folder social-bookmarks-reloaded.
+Than activate the plugin in plugin menu of control pan.
+
+
 How to use - uso del plugin
 ---------------------------
 In options menu, there is the Social Bookmarking reloaded plugin, called Social Bookmarking R, here you can select how many social you want to display to users and there are some options.
 
 Nel menù opzioni si trova il sottomenu del plugin, Social Bookmarking R, qui si possono scegliere quali e quanti social si voglino mostrare ai propri utenti, in più si possono attivare diverse opzioni.
-
-
-New Features in version RELOADED 1.7
--------------------------------------
-In this version I added smarking, linkagogo, delirious
-Aggiunto smarking, linkagogo e delirious.
-
-
-New Features in version RELOADED 1.5
--------------------------------------
-In this version I added Ask.com
-Aggiunto ask.com
-
-
-New Features in version RELOADED 1.5
--------------------------------------
-In this version I added bookmark.it and I reviewed the readme and the script.
-
-
-New Features in version RELOADED 1.02
--------------------------------------
-Add 2 italian social and Netscape.
-Fix a bug.
-Update syntax of many social.
-Modify icons.
-Sono stati aggiunti due servizi italiani. E' stata effettuata una modifica del codice in modo da risolvere un bug.
-Ho aggiornato la sintassi dei link dei vari social.
-Aggiunto Netscape.
-
-
-New Features in version 3.2
----------------------------
-With the release of WordPress 2.1, the way that WordPress defines a page has changed. Therefore, the code that retrieves the 
-site pages and displays them in the admin section had to be modified for plugin exclusion had to be updated. The plugin is 
-now 'clever enough' to figure out whether you are running WP 2.1 or WP 2.0.x and deal with the pages accordingly. Also, 
-from this release, you can position manually the plugin in your template. See the section 'Manual Positioning 'for more details.
-
-
-
-New Features in version 3.1
----------------------------
-Tailrank and Bloglines have been added in the supported sites. Also, you can specify whether the plugin 
-will be visible in the blog listing (index.php) and/or in the single post page.
-Finally, this version introduces a bug fix that addresses the issue that some users had with changing 
-the display title.
-
-
-Update Instructions (from versions 1.x or 2.x)
--------------------
-Download the complete package and follow the instructions in the readme file provided.
-
-
-Update Instructions (from version 3.0)
--------------------------
-Upload the contents of the social_bookmarks directory to your wp-content/plugins/social-bookmarks-reloaded directory. 
 
 
 Customization
@@ -181,3 +156,5 @@ Apostolos
 
 For social bookmarking RELOADED: valent
 http://www.valent-blog.eu
+
+

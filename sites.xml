@@ -257,5 +257,11 @@
 	<img>live.png</img>
 	<key>live</key>
     </site>
+<site>
+        <name>SlashDot</name>
+	<url>http://slashdot.org/bookmark.pl?title={title}&amp;url={url}</url>
+	<img>slashdot.png</img>
+	<key>slashdot</key>
+    </site>
 
 </social_sites>

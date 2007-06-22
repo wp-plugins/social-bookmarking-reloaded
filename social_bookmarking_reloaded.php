@@ -51,7 +51,7 @@ class social_bookmarks
 		
 
 		// Default Settings
-		$this->default_settings = array('sbb_sites' => 'delicious|digg|furl|blinklist|reddit|feed_me|technorati|yahoo|newsvine|socializer|magnolia|stumbleupon|google|rawsugar|squidoo|spurl|blinkbits|netvouz|rojo|blogmarks|shadows|simpy|comments|scuttle|bloglines|tailrank|segnalo|oknotizie|netscape|bookmark_it|ask|smarking|linkagogo|delirious|socialdust|live',
+		$this->default_settings = array('sbb_sites' => 'delicious|digg|furl|blinklist|reddit|feed_me|technorati|yahoo|newsvine|socializer|magnolia|stumbleupon|google|rawsugar|squidoo|spurl|blinkbits|netvouz|rojo|blogmarks|shadows|simpy|comments|scuttle|bloglines|tailrank|segnalo|oknotizie|netscape|bookmark_it|ask|smarking|linkagogo|delirious|socialdust|live|slashdot',
 							'sbb_label' => 'Segnala presso:',
 							'sbb_target' => 'new',
 							'sbb_pages_excluded' => 'none',
