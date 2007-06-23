@@ -1,6 +1,6 @@
 === Plugin Name ===
 Plugin Name: Social Bookmarking RELOADED
-Version: 2.1
+Version: 2.2
 Author: valent
 Plugin URI: http://www.valent-blog.eu/social-bookmarking-reloaded/
 
@@ -9,7 +9,7 @@ Donate link: http://valent-blog.eu/info/
 Tags: bookmarks, bookmarking, social, delicious, digg, technorati
 Requires at least: 2.0.2
 Tested up to: 2.2.1
-Stable tag: 2.1
+Stable tag: 2.2
 
 The Social Bookmarking RELOADED plugin for WordPress adds a list of XHTML 
 compliant graphic links at the end of your posts and/or pages that allow your visitors to easily 
@@ -75,6 +75,13 @@ The following 37 sites are supported:
         * Socialdust
         * Live - MSN
 	* Slashdot
+
+What is new in version Social Bookmarking RELOADED 2.2
+-------------------------------------------------------
+Fixed msn-live quicklink.
+
+Modificato il link per msn-live.
+
 
 What is new in version Social Bookmarking RELOADED 2.1
 -------------------------------------------------------

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	Social Bookmarking RELOADED
-      Version: 2.0
+      Version: 2.2
 	http://www.valent-blog.eu
       Modificato da valent
       http://www.valent-blog.eu
@@ -253,7 +253,7 @@
     </site>
 <site>
         <name>Live-MSN</name>
-	<url>http://www.live.com/?add={link}</url>
+	<url>https://favorites.live.com/quickadd.aspx?url={link}&amp;title{title}</url>
 	<img>live.png</img>
 	<key>live</key>
     </site>
