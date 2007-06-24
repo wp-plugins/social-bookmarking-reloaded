@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Social Bookmarking RELOADED
-Version: 2.0
-Plugin URI: http://www.valent-blog.eu/
+Version: 2.1
+Plugin URI: http://www.valent-blog.eu/social-bookmarking-reloaded/
 Author: valent
 Author URI: http://www.valent-blog.eu/
 Description: Social Bookmarking RELOADED - Add the social bookmarks services's icons to your articles in your blogs in order to submit them easyly. Plugin based on <a href="http://www.dountsis.com/" title="Visit Dountsis page" target="_blank">Apostolos Dountsis</a> one
