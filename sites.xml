@@ -221,7 +221,7 @@
 <site>
         <name>Ask</name>
 	<url>http://mystuff.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title={title}&amp;url={link}</url>
-	<img>ask.gif</img>
+	<img>ask.png</img>
 	<key>ask</key>
     </site>
 

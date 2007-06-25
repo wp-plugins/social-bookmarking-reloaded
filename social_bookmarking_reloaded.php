@@ -1,23 +1,17 @@
 <?php
 /*
 Plugin Name: Social Bookmarking RELOADED
-Version: 2.0
-Plugin URI: http://www.valent-blog.eu/
+Version: 2.2
+Plugin URI: http://www.valent-blog.eu/social-bookmarking-reloaded/
 Author: valent
 Author URI: http://www.valent-blog.eu/
 Description: Social Bookmarking RELOADED - Add the social bookmarks services's icons to your articles in your blogs in order to submit them easyly. Plugin based on <a href="http://www.dountsis.com/" title="Visit Dountsis page" target="_blank">Apostolos Dountsis</a> one
-Date: May 2007
 IMPORTANT: This plugin is based on Social Bookmarks 3.2 by Apostolos Dountsis
 
-Plugin Name: Social Bookmarks
-Version: 3.2
-Plugin URI: http://www.dountsis.com/
-Author: Apostolos Dountsis
-Author URI: http://www.dountsis.com
-Description: <a href="http://www.dountsis.com/" title="Visit plugin page" target="_blank">Social Bookmarks</a> adds a list of XHTML compliant graphic linkss at the end of your posts that allow your visitors to easily submit them to a number of social bookmarking sites. Use plugin options (In menu Options>Social Bookmarks) to configure the plugin.
 
 Modificato da valent
 http://www.valent-blog.eu
+Modify by valent
 */
 /*  Copyright 2007  APOSTOLOS DOUNTSIS
 
@@ -56,7 +50,9 @@ class social_bookmarks
 							'sbb_target' => 'new',
 							'sbb_pages_excluded' => 'none',
 							'sbb_lines' => 2,
-							'sbb_display' => 3);
+							'sbb_display' => 3,
+            					'target_add' => 'Aggiungi',
+            					'target_to' => 'a',);
 		
 		// The Sites
 		$xml_sites = $this->read_xml(dirname(__FILE__)."/sites.xml");
@@ -290,7 +286,10 @@ class social_bookmarks
 		$html .= "</p>";
 		
 		// Label
-		$html .= '<p>Display Title: <input type="text" name="sbb_label" value="'.$this->current_settings['sbb_label'].'" /></p>';
+		$html .= '<p>Display Title (you can put bookmark to, if you use english): <input type="text" name="sbb_label" value="'.$this->current_settings['sbb_label'].'" /></p>';
+          	$html .= '<p>Add string (you can put Add, if you use english): <input type="text" name="target_add" value="'.$this->current_settings['target_add'].'" /></p>';
+		$html .= '<p>To word (you can put to, if you use english): <input type="text" name="target_to" value="'.$this->current_settings['target_to'].'" /></p>';
+            //In 2 previous lines you can change "aggiungi" with "add" and "a" with "to" if you use english
 
 		// Lines
 		$html .= "<p>";
@@ -388,7 +387,8 @@ class social_bookmarks
 		$title_enc = urlencode($title);
 
 		// Post Alternative (Title) description
-		$target_desc = "Aggiungi '$title' a ".$settings['name'];  //Here you can change "aggiungi" with "add" and "a" with "to" if you use english
+		$target_desc = "{$this->current_settings['target_add']} '$title' {$this->current_settings['target_to']} ".$settings['name'];  
+
 
 		// Populate the url with the article variables
 		$target_href = str_replace('{title}', $title_enc, $settings['url']);
