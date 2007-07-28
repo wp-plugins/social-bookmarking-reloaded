@@ -5,7 +5,7 @@ Donate link: http://valent-blog.eu/info/
 Tags: bookmarks, bookmarking, social, delicious, digg, technorati
 Requires at least: 2.0.2
 Tested up to: 2.2.1
-Stable tag: 2.2
+Stable tag: 2.3
 
 The Social Bookmarking RELOADED plugin for WordPress adds a list of XHTML compliant graphic links at the end of your posts and/or pages that allow your visitors to easily submit them in a number of social bookmarking sites.
 Furthermore, the plugin adds a page in the WordPress admin section that lets you customize it. 
@@ -17,53 +17,54 @@ See the Customization section below for details.
 
 *ITALIAN*: Social Bookmarking RELOADED è un plugin basato sul plugin Social Bookmarks 3.2. 
 Dalla versione 1.0 alla versione 1.7 di RELOADED il plugin si chiamava Social Bookmarks RELOADED, ora ha preso il nome di Social Bookmarking RELOADED.
-Il plugin non fa altro che aggiungere delle icone che consentono una rapida segnalazione dei post e dei commenti presso i princiali social boormarking service. Da questa versione sono supportati ben 36 servizi, tra i quali parecchi italiani:
+Il plugin non fa altro che aggiungere delle icone che consentono una rapida segnalazione dei post e dei commenti presso i princiali social boormarking service. Da questa versione sono supportati ben 38 servizi, tra i quali parecchi italiani:
 
-The following 37 sites are supported:
+The following 38 sites are supported:
 
-        * Del.icio.us
-        * digg
-        * FURL
-        * blinklist
-	* Socializer
-        * reddit
-        * Feed Me Links!
-        * Technorati
-        * Newsvine
-        * Yahoo My Web
-	* Ma.gnolia
-	* Google Bookmarks
-	* Squidoo
-	* BlinkBits
-	* Stumble Upon
-	* RawSugar
-	* Spurl
-	* Netvouz
-	* Rojo
-	* Blogmarks
-	* Shadows
-	* Simpy
-	* Co.mments
-	* Scuttle
-	* Tailrank
-	* Bloglines 
-        * Segnalo 
-        * OkNotizie 
-        * Netscape
-        * Bookmark.it
-        * Ask
-        * smarking (need impr)
-        * linkagogo (need impr)
-        * del.irio.us (need impr)
-        * Socialdust
-        * Live - MSN
-	* Slashdot
+        Del.icio.us
+        digg
+        FURL
+        blinklist
+	Socializer
+        reddit
+        Feed Me Links!
+        Technorati
+        Newsvine
+        Yahoo My Web
+	Ma.gnolia
+	Google Bookmarks
+	Squidoo
+	BlinkBits
+	Stumble Upon
+	RawSugar
+	Spurl
+	Netvouz
+	Rojo
+	Blogmarks
+	Shadows
+	Simpy
+	Co.mments
+	Scuttle
+	Tailrank
+	Bloglines 
+        Segnalo 
+        OkNotizie 
+        Netscape
+        Bookmark.it
+        Ask
+        smarking (need impr)
+        linkagogo (need impr)
+        del.irio.us (need impr)
+        Socialdust
+        Live - MSN
+	Slashdot
+	Sphinn
 
-*What is new in version Social Bookmarking RELOADED 2.2*
+*What is new in version Social Bookmarking RELOADED 2.3*
 
-Fixed msn-live quicklink.
+Fixed Slashdot link, add sphinn social
 
-Modificato il link per msn-live.
+Aggiornato l'url di slashdot e aggiunto il social sphinn
 
 * [Social Bookmarking RELOADED Page](http://valent-blog.eu/social-bookmarking-reloaded)
 

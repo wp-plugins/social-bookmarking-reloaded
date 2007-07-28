@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	Social Bookmarking RELOADED
-      Version: 2.2
+      Version: 2.3
 	http://www.valent-blog.eu
       Modificato da valent
       http://www.valent-blog.eu
@@ -259,9 +259,15 @@
     </site>
 <site>
         <name>SlashDot</name>
-	<url>http://slashdot.org/bookmark.pl?title={title}&amp;url={url}</url>
+	<url>http://slashdot.org/bookmark.pl?title={title}&amp;url={link}</url>
 	<img>slashdot.png</img>
 	<key>slashdot</key>
     </site>
 
+<site>
+        <name>Sphinn</name>
+	<url>http://sphinn.com/submit.php?url={link}&amp;title={title}</url>
+	<img>sphinn.png</img>
+	<key>sphinn</key>
+    </site>
 </social_sites>
