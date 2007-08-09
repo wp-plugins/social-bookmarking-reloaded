@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	Social Bookmarking RELOADED
-      Version: 2.3
+      Version: 2.4
 	http://www.valent-blog.eu
       Modificato da valent
       http://www.valent-blog.eu
@@ -269,5 +269,12 @@
 	<url>http://sphinn.com/submit.php?url={link}&amp;title={title}</url>
 	<img>sphinn.png</img>
 	<key>sphinn</key>
+    </site>
+
+<site>
+        <name>Diggita</name>
+	<url>http://www.diggita.it/submit.php?title={title}&amp;url={link}</url>
+	<img>diggita.png</img>
+	<key>diggita</key>
     </site>
 </social_sites>
