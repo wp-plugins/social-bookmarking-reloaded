@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	Social Bookmarking RELOADED
-      Version: 2.4
+      Version: 2.5
 	http://www.valent-blog.eu
       Modificato da valent
       http://www.valent-blog.eu
@@ -277,4 +277,11 @@
 	<img>diggita.png</img>
 	<key>diggita</key>
     </site>
+<site>
+        <name>Seotribu</name>
+	<url>http://www.seotribu.com/submit.php?title={title}&amp;url={link}</url>
+	<img>seotribu.png</img>
+	<key>seotribu</key>
+    </site>
+
 </social_sites>

@@ -5,7 +5,7 @@ Donate link: http://valent-blog.eu/info/
 Tags: bookmarks, bookmarking, social, delicious, digg, technorati
 Requires at least: 2.0.2
 Tested up to: 2.2.1
-Stable tag: 2.4
+Stable tag: 2.5
 
 The Social Bookmarking RELOADED plugin for WordPress adds a list of XHTML compliant graphic links at the end of your posts and/or pages that allow your visitors to easily submit them in a number of social bookmarking sites.
 Furthermore, the plugin adds a page in the WordPress admin section that lets you customize it. 
