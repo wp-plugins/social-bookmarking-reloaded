@@ -218,7 +218,7 @@ class social_bookmarks
 		foreach($this->social_places as $site => $settings)
 		{
 			$site_name = $settings['name'];
-			$site_img = "<img src=\"".$this->plugin_dir.$settings['img']."\" title=\"$site_name\" alt=\"$site_name\" border=\"0\" align=\"top\" />\n";
+			$site_img = "<img src=\"".$this->plugin_dir.$settings['img']."\" rel=\"nofollow\" title=\"$site_name\" alt=\"$site_name\" border=\"0\" align=\"top\" />\n";
 
 			$html = "<p>\n";
 			if(in_array($site, $user_option))

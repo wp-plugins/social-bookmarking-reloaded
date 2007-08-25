@@ -94,7 +94,7 @@
 
     <site>
         <name>Stumble Upon</name>
-	<url>http://www.stumbleupon.com/refer.php?url={link}&amp;title={title}</url>
+	<url>http://www.stumbleupon.com/submit?url={link}&amp;title={title}</url>
 	<img>stumbleupon.png</img>
 	<key>stumbleupon</key>
     </site>

@@ -17,14 +17,15 @@ See the Customization section below for details.
 
 **ITALIAN**: Social Bookmarking RELOADED è un plugin basato sul plugin Social Bookmarks 3.2. 
 Dalla versione 1.0 alla versione 1.7 di RELOADED il plugin si chiamava Social Bookmarks RELOADED, ora ha preso il nome di Social Bookmarking RELOADED.
-Il plugin non fa altro che aggiungere delle icone che consentono una rapida segnalazione dei post e dei commenti presso i princiali social boormarking service. Da questa versione sono supportati ben 39 servizi, tra i quali parecchi italiani:
+Il plugin non fa altro che aggiungere delle icone che consentono una rapida segnalazione dei post e dei commenti presso i princiali social boormarking service. Da questa versione sono supportati ben 40 servizi, tra i quali parecchi italiani:
 
-The following 39 sites are supported: Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Yahoo My Web, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Spurl, Netvouz, Rojo, Blogmarks, Shadows, Simpy, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, smarking (need impr), linkagogo (need impr), del.irio.us (need impr), Socialdust, Live - MSN, Slashdot, Sphinn, Diggita.
+The following 40 sites are supported: Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Yahoo My Web, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Spurl, Netvouz, Rojo, Blogmarks, Shadows, Simpy, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, smarking (need impr), linkagogo (need impr), del.irio.us (need impr), Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu.
 
-**What is new in version Social Bookmarking RELOADED 2.4**
 
-Add Diggita.it as a new social
-Aggiunto diggita.it
+**What is new in version Social Bookmarking RELOADED 2.5**
+
+Add the italian social seotribu, fixed stumbleupon link, add tag rel="nofollow" to the links.
+Aggiunto il social italiano seotribu, corretto il link a stumbleupon, aggiunto il tag rel="nofollow" ai link verso i social.
 
 *[Sites which use Social Bookmarking reloaded](http://valent-blog.eu/social-bookmarking-reloaded/)
 
@@ -52,7 +53,7 @@ Than activate the plugin in plugin menu of control pan.
 **How to use - uso del plugin**
 In options menu, there is the Social Bookmarking reloaded plugin, called Social Bookmarking R, here you can select how many social you want to display to users and there are some options.
 
-Nel menù opzioni si trova il sottomenu del plugin, Social Bookmarking R, qui si possono scegliere quali e quanti social si voglino mostrare ai propri utenti, in più si possono attivare diverse opzioni.
+Nel menù opzioni si trova il sottomenu del plugin, Social Bookmarking R, qui si possono scegliere quali e quanti social si vogliano mostrare ai propri utenti, in più si possono attivare diverse opzioni.
 
 
 For social bookmarking RELOADED: valent
