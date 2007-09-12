@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	Social Bookmarking RELOADED
-      Version: 2.5
+      Version: 2.6
 	http://www.valent-blog.eu
       Modificato da valent
       http://www.valent-blog.eu
@@ -227,14 +227,13 @@
 
 <site>
         <name>Smarking</name>
-	<url>http://smarking.com/editbookmark/?url={link}</url>
+	<url>http://smarking.com/editbookmark/?url={link}&amp;title={title}</url>
 	<img>smarking.png</img>
 	<key>smarking</key>
     </site>
-
 <site>
         <name>Linkagogo</name>
-	<url>http://www.linkagogo.com/go/AddNoPopup?url={link}</url>
+	<url>http://www.linkagogo.com/go/AddNoPopup?url={link}&amp;title={title}</url>
 	<img>linkagogo.png</img>
 	<key>linkagogo</key>
     </site>

@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Social Bookmarking RELOADED
-Version: 2.5
+Version: 2.6
 Plugin URI: http://www.valent-blog.eu/social-bookmarking-reloaded/
 Author: valent
 Author URI: http://www.valent-blog.eu/
@@ -636,7 +636,7 @@ class social_bookmarks
 		
 		$pages = $wpdb->get_results("select id, post_title
 							from $wpdb->posts
-							where post_status = 'static'
+							where post_type = 'page'
 							order by post_title asc", 'ARRAY_A');
 		return $pages;
 	}
