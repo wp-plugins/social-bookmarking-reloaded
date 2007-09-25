@@ -282,5 +282,11 @@
 	<img>seotribu.png</img>
 	<key>seotribu</key>
     </site>
+<site>
+        <name>FaceBook</name>
+	<url>http://www.facebook.com/share.php?u={link}</url>
+	<img>facebook.png</img>
+	<key>facebook</key>
+    </site>
 
 </social_sites>

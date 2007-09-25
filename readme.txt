@@ -2,29 +2,25 @@
 
 Contributors: vfvalent
 Donate link: http://valent-blog.eu/info/
-Tags: bookmarks, bookmarking, social, delicious, digg, technorati, reddit, furl, newswine, segnalo, sphinn
+Tags: bookmarks, bookmarking, social, delicious, Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Yahoo My Web, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Spurl, Netvouz, Rojo, Blogmarks, Shadows, Simpy, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, smarking, linkagogo, del.irio.us, Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu, FaceBook.
 Requires at least: 2.0.2
-Tested up to: 2.3 beta2
-Stable tag: 2.6
-
-The Social Bookmarking RELOADED plugin for WordPress adds a list of XHTML compliant graphic links at the end of your posts and/or pages that allow your visitors to easily submit them in a number of social bookmarking sites.
-Furthermore, the plugin adds a page in the WordPress admin section that lets you customize it. 
-See the Customization section below for details.
+Tested up to: 2.3
+Stable tag: 2.7
 
 == Description ==
+The Social Bookmarking RELOADED plugin for WordPress adds a list of XHTML compliant graphic links at the end of your posts and/or pages that allow your visitors to easily submit them in a number of social bookmarking sites.
+Furthermore, the plugin adds a page in the WordPress admin section that lets you customize it. 
 
 Social Bookmarking RELOADED support the list below:
-The following 40 sites are supported: Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Yahoo My Web, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Spurl, Netvouz, Rojo, Blogmarks, Shadows, Simpy, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, smarking (need impr), linkagogo (need impr), del.irio.us (need impr), Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu.
-
-ITALIAN: Social Bookmarking RELOADED è un plugin basato sul plugin Social Bookmarks 3.2. 
-Dalla versione 1.0 alla versione 1.7 di RELOADED il plugin si chiamava Social Bookmarks RELOADED, ora ha preso il nome di Social Bookmarking RELOADED.
-Il plugin non fa altro che aggiungere delle icone che consentono una rapida segnalazione dei post e dei commenti presso i princiali social boormarking service. Da questa versione sono supportati ben 40 servizi, tra i quali parecchi italiani:
+The following 41 sites are supported: Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Yahoo My Web, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Spurl, Netvouz, Rojo, Blogmarks, Shadows, Simpy, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, smarking (need impr), linkagogo (need impr), del.irio.us (need impr), Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu, FaceBook.
 
 This plugin is compatible with 2.3 version of Wordpress.
 
-What is new in version Social Bookmarking RELOADED 2.6
+In plugin .zip file, there is a pdf file about installation, usage of Social Bookmarking Reloaded in english, italian and spanish.
 
-Fixed page code. Checked on Wordpress 2.3 betas
+What is new in version Social Bookmarking RELOADED 2.7
+
+Add Facebook.
 
 [Sites which use Social Bookmarking reloaded](http://valent-blog.eu/social-bookmarking-reloaded/)
 
@@ -49,18 +45,8 @@ Upload all the contents of the social-bookmarking-reloaded directory to your wp-
 Delete the folder social-bookmarks-reloaded.
 Than activate the plugin in plugin menu of control pan.
 
-
-How to use - uso del plugin
-In options menu, there is the Social Bookmarking reloaded plugin, called Social Bookmarking R, here you can select how many social you want to display to users and there are some options.
-
-Nel menù opzioni si trova il sottomenu del plugin, Social Bookmarking R, qui si possono scegliere quali e quanti social si vogliano mostrare ai propri utenti, in più si possono attivare diverse opzioni.
-
-
 For social bookmarking RELOADED: valent
 http://www.valent-blog.eu
 
 Based on GNU GPL plugin:
-
 Social Bookmarks 3.2
-http://www.dountsis.com/
-Apostolos Dountsis
