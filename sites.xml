@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	Social Bookmarking RELOADED
-      Version: 2.6
+      Version: 2.8
 	http://www.valent-blog.eu
       Modificato da valent
       http://www.valent-blog.eu
@@ -287,6 +287,12 @@
 	<url>http://www.facebook.com/share.php?u={link}</url>
 	<img>facebook.png</img>
 	<key>facebook</key>
+    </site>
+<site>
+        <name>Upnews</name>
+	<url>http://www.upnews.it/submit?url={link}&amp;title={title}</url>
+	<img>upnews.png</img>
+	<key>upnews</key>
     </site>
 
 </social_sites>
