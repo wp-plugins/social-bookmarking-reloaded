@@ -2,7 +2,7 @@
 
 Contributors: vfvalent
 Donate link: http://valent-blog.eu/info/
-Tags: bookmarks, bookmarking, social, delicious, Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Yahoo My Web, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Spurl, Netvouz, Rojo, Blogmarks, Shadows, Simpy, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, smarking, linkagogo, del.irio.us, Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu, FaceBook, Upnews.
+Tags: bookmarks, bookmarking, social, delicious, Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Yahoo My Web, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Spurl, Netvouz, Rojo, Blogmarks, Shadows, Simpy, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, smarking, linkagogo, del.irio.us, Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu, FaceBook, Upnews, wikio.
 Requires at least: 2.0.2
 Tested up to: 2.3.1
 Stable tag: 2.9
@@ -12,7 +12,7 @@ The Social Bookmarking RELOADED plugin for WordPress adds a list of XHTML compli
 Furthermore, the plugin adds a page in the WordPress admin section that lets you customize it. 
 
 Social Bookmarking RELOADED support the list below:
-The following 41 sites are supported: Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Yahoo My Web, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Spurl, Netvouz, Rojo, Blogmarks, Shadows, Simpy, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, smarking (need impr), linkagogo (need impr), del.irio.us (need impr), Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu, FaceBook, Upnews.
+The following 42 sites are supported: Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Yahoo My Web, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Spurl, Netvouz, Rojo, Blogmarks, Shadows, Simpy, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, smarking (need impr), linkagogo (need impr), del.irio.us (need impr), Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu, FaceBook, Upnews, wikio.
 
 This plugin is compatible with 2.4 and 2.3 versions of Wordpress.
 
@@ -20,7 +20,7 @@ In plugin .zip file, there is a pdf file about installation, usage of Social Boo
 
 What is new in version Social Bookmarking RELOADED 2.9
 
-Some bugs fixed.
+Some bugs fixed. Wikio vote add.
 
 [Sites which use Social Bookmarking reloaded](http://valent-blog.eu/social-bookmarking-reloaded/)
 
