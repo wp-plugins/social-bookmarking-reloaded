@@ -252,7 +252,7 @@
     </site>
 <site>
         <name>Live-MSN</name>
-	<url>https://favorites.live.com/quickadd.aspx?url={link}&amp;title{title}</url>
+	<url>https://favorites.live.com/quickadd.aspx?url={link}&amp;title={title}</url>
 	<img>live.png</img>
 	<key>live</key>
     </site>
@@ -294,5 +294,19 @@
 	<img>upnews.png</img>
 	<key>upnews</key>
     </site>
+<site>
+        <name>Wikio</name>
+	<url>http://www.wikio.it/vote?url={link}</url>
+	<img>wikio.png</img>
+	<key>wikio</key>
+    </site>
+<site>
+        <name>Social Bookmarking Reloaded</name>
+	<url>http://valent-blog.eu/social-bookmarking-reloaded/</url>
+	<img>sbr.png</img>
+	<key>sbr</key>
+    </site>
+
+
 
 </social_sites>
