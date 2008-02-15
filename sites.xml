@@ -199,7 +199,7 @@
 
 <site>
         <name>OKnotizie</name>
-	<url>http://oknotizie.com/post?url={link}&amp;title={title}</url>
+	<url>http://oknotizie.alice.it/post?url={link}&amp;title={title}</url>
 	<img>oknotizie.gif</img>
 	<key>oknotizie</key>
     </site>
