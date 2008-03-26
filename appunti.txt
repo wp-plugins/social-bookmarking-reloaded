@@ -1,0 +1,1 @@
+http://www.wikio.it/vote?url={link}
