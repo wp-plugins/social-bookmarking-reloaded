@@ -4,7 +4,7 @@ Contributors: vfvalent
 Donate link: http://valent-blog.eu/info/
 Tags: bookmarks, bookmarking, social, delicious, Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Yahoo My Web, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Spurl, Netvouz, Rojo, Blogmarks, Shadows, Simpy, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, smarking, linkagogo, del.irio.us, Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu, FaceBook, Upnews, wikio.
 Requires at least: 2.0.2
-Tested up to: 2.3.1
+Tested up to: 2.3.3
 Stable tag: 2.91
 
 == Description ==
@@ -14,13 +14,11 @@ Furthermore, the plugin adds a page in the WordPress admin section that lets you
 Social Bookmarking RELOADED support the list below:
 The following 42 sites are supported: Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Yahoo My Web, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Spurl, Netvouz, Rojo, Blogmarks, Shadows, Simpy, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, smarking (need impr), linkagogo (need impr), del.irio.us (need impr), Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu, FaceBook, Upnews, wikio.
 
-This plugin is compatible with 2.4 and 2.3 versions of Wordpress.
-
 In plugin .zip file, there is a pdf file about installation, usage of Social Bookmarking Reloaded in english, italian and spanish.
 
-What is new in version Social Bookmarking RELOADED 2.9
+What is new in version Social Bookmarking RELOADED 2.91
 
-Some bugs fixed. Wikio vote add.
+Some issues resolved.
 
 [Sites which use Social Bookmarking reloaded](http://valent-blog.eu/social-bookmarking-reloaded/)
 
@@ -45,7 +43,9 @@ Upload all the contents of the social-bookmarking-reloaded directory to your wp-
 Delete the folder social-bookmarks-reloaded.
 Than activate the plugin in plugin menu of control panel.
 
-If you would like to submit a useful social, that is not included in this plugin, please send me an 18x18 icon and a link for submition e.g. www.social.xz/submit?url={link}&title={title}. For make this, you can add a comment in a social bookmarking reloaded post. Thank you very much.
+If you would like to submit an useful social, that is not included in this plugin, _important_ please send me an 18x18 icon and a link for submition e.g. www.soc ial.xz/submit?url={link}&title={title}. For make this, you can add a comment in a social bookmarking reloaded post. Thank you very much.
+
+Send me the material I have mentioned before, otherwise I will ignore your request of inclusion. (I will not register on every social request I receive.)
 
 For social bookmarking RELOADED: valent
 http://www.valent-blog.eu
