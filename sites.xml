@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	Social Bookmarking RELOADED
-      Version: 2.8
+      Version: 2.92
 	http://www.valent-blog.eu
       Modificato da valent
       http://www.valent-blog.eu
@@ -301,12 +301,25 @@
 	<key>wikio</key>
     </site>
 <site>
+        <name>Health Ranker</name>
+	<url>http://healthranker.com/submit.php?url={link}</url>
+	<img>healthranker.gif</img>
+	<key>healthranker</key>
+    </site>
+<site>
+        <name>Barrapunto</name>
+	<url>http://barrapunto.com/submit.pl?subj={title}&amp;story={link}</url>
+	<img>barrapunto.png</img>
+	<key>barrapunto</key>
+    </site>
+
+
+<site>
         <name>Social Bookmarking Reloaded</name>
 	<url>http://valent-blog.eu/social-bookmarking-reloaded/</url>
 	<img>sbr.png</img>
 	<key>sbr</key>
     </site>
-
 
 
 </social_sites>

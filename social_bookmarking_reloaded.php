@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Social Bookmarking RELOADED
-Version: 2.9
+Version: 2.92
 Plugin URI: http://www.valent-blog.eu/social-bookmarking-reloaded/
 Author: valent
 Author URI: http://www.valent-blog.eu/
@@ -45,7 +45,7 @@ class social_bookmarks
 		
 
 		// Default Settings
-		$this->default_settings = array('sbb_sites' => 'delicious|digg|furl|blinklist|reddit|feed_me|technorati|yahoo|newsvine|socializer|magnolia|stumbleupon|google|rawsugar|squidoo|spurl|blinkbits|netvouz|rojo|blogmarks|shadows|simpy|comments|scuttle|bloglines|tailrank|segnalo|oknotizie|netscape|bookmark_it|ask|smarking|linkagogo|delirious|socialdust|live|slashdot|sphinn|diggita|seotribu|facebook|upnews|wikio|sbr',
+		$this->default_settings = array('sbb_sites' => 'delicious|digg|furl|blinklist|reddit|feed_me|technorati|yahoo|newsvine|socializer|magnolia|stumbleupon|google|rawsugar|squidoo|spurl|blinkbits|netvouz|rojo|blogmarks|shadows|simpy|comments|scuttle|bloglines|tailrank|segnalo|oknotizie|netscape|bookmark_it|ask|smarking|linkagogo|delirious|socialdust|live|slashdot|sphinn|diggita|seotribu|facebook|upnews|wikio|healthranker|barrapunto|sbr',
 							'sbb_label' => 'Segnala presso:',
 							'sbb_target' => 'new',
 							'sbb_pages_excluded' => 'none',
@@ -218,7 +218,7 @@ class social_bookmarks
 		foreach($this->social_places as $site => $settings)
 		{
 			$site_name = $settings['name'];
-			$site_img = "<img src=\"".$this->plugin_dir.$settings['img']."\" title=\"$site_name\" alt=\"$site_name\" border=\"0\" align=\"top\" />\n";
+			$site_img = "<img src=\"".$this->plugin_dir.$settings['img']."\" rel=\"nofollow\" title=\"$site_name\" alt=\"$site_name\" border=\"0\" align=\"top\" />\n";
 
 			$html = "<p>\n";
 			if(in_array($site, $user_option))
