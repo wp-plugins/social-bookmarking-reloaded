@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Social Bookmarking RELOADED
-Version: 2.92
+Version: 2.93
 Plugin URI: http://www.valent-blog.eu/social-bookmarking-reloaded/
 Author: valent
 Author URI: http://www.valent-blog.eu/
@@ -45,8 +45,7 @@ class social_bookmarks
 		
 
 		// Default Settings
-		$this->default_settings = array('sbb_sites' => 'delicious|digg|furl|blinklist|reddit|feed_me|technorati|yahoo|newsvine|socializer|magnolia|stumbleupon|google|rawsugar|squidoo|spurl|blinkbits|netvouz|rojo|blogmarks|shadows|simpy|comments|scuttle|bloglines|tailrank|segnalo|oknotizie|netscape|bookmark_it|ask|smarking|linkagogo|delirious|socialdust|live|slashdot|sphinn|diggita|seotribu|facebook|upnews|wikio|healthranker|barrapunto|sbr',
-							'sbb_label' => 'Segnala presso:',
+		$this->default_settings = array('sbb_sites' => 'delicious|digg|furl|blinklist|reddit|feed_me|technorati|yahoo|newsvine|socializer|magnolia|stumbleupon|google|rawsugar|squidoo|spurl|blinkbits|netvouz|rojo|blogmarks|shadows|simpy|comments|scuttle|bloglines|tailrank|scoopeo|blogmemes|blogspherenews|blogsvine|mixx|netscape|ask|smarking|linkagogo|delirious|socialdust|live|slashdot|sphinn|facebook|healthranker|barrapunto|segnalo|oknotizie|diggita|seotribu|upnews|wikio|notizieflash|kipapa|fai_informazione|bookmark_it|sbr',							'sbb_label' => 'Segnala presso:',
 							'sbb_target' => 'new',
 							'sbb_pages_excluded' => 'none',
 							'sbb_lines' => 2,

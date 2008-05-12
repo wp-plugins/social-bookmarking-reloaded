@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	Social Bookmarking RELOADED
-      Version: 2.92
+      Version: 2.93
 	http://www.valent-blog.eu
       Modificato da valent
       http://www.valent-blog.eu
@@ -312,8 +312,54 @@
 	<img>barrapunto.png</img>
 	<key>barrapunto</key>
     </site>
-
-
+<site>
+        <name>NotizieFlash</name>
+	<url>http://notizieflash.com/submit.php?title={title}&amp;url={link}</url>
+	<img>notizieflash.png</img>
+	<key>notizieflash</key>
+    </site>
+<site>
+        <name>Kipapa</name>
+	<url>http://kipapa.it/add.php?title={title}&amp;url={link}</url>
+	<img>kipapa.png</img>
+	<key>kipapa</key>
+    </site>
+<site>
+        <name>Fai informazione</name>
+	<url>http://fai.informazione.it/submit.aspx?url={link}&amp;title={title}</url>
+	<img>fai_informazione.png</img>
+	<key>fai_informazione</key>
+    </site>
+<site>
+        <name>Blogmemes</name>
+	<url>http://www.blogmemes.com/post.php?url={link}&amp;title={title}</url>
+	<img>blogmemes.png</img>
+	<key>blogmemes</key>
+    </site>
+<site>
+        <name>BlogSphere News</name>
+	<url>http://www.blogospherenews.com/submit.php?url={link}&amp;title={title}</url>
+	<img>blogspherenews.png</img>
+	<key>blogspherenews</key>
+    </site>
+<site>
+        <name>Blogsvine</name>
+	<url>http://blogsvine.com/submit.php?url={link}</url>
+	<img>blogsvine.png</img>
+	<key>blogsvine</key>
+    </site>
+<site>
+        <name>Mixx</name>
+	<url>http://www.mixx.com/submit?page_url={link}&amp;title={title}</url>
+	<img>mixx.png</img>
+	<key>mixx</key>
+    </site>
+<site>
+        <name>Scoopeo</name>
+	<url>http://www.scoopeo.com/scoop/new?newurl={link}&amp;title={title}</url>
+	<img>scoopeo.png</img>
+	<key>scoopeo</key>
+    </site>
 <site>
         <name>Social Bookmarking Reloaded</name>
 	<url>http://valent-blog.eu/social-bookmarking-reloaded/</url>
