@@ -361,6 +361,13 @@
 	<key>scoopeo</key>
     </site>
 <site>
+        <name>MySpace</name>
+	<url>http://www.myspace.com/Modules/PostTo/Pages/?t={title}&amp;c={link}</url>
+	<img>myspace.png</img>
+	<key>myspace</key>
+    </site>
+
+<site>
         <name>Social Bookmarking Reloaded</name>
 	<url>http://valent-blog.eu/social-bookmarking-reloaded/</url>
 	<img>sbr.png</img>

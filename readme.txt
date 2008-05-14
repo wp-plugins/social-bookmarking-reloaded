@@ -5,20 +5,20 @@ Donate link: http://valent-blog.eu/info/
 Tags: bookmarks, bookmarking, social, delicious, Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Yahoo My Web, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Spurl, Netvouz, Rojo, Blogmarks, Shadows, Simpy, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, smarking, linkagogo, del.irio.us, Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu, FaceBook, Upnews, wikio, barrapunto, healthranker, notizieflash, kipapa, fai informazione, blogmemes, blogsphere news, blogsvine, mixx, scoopeo.
 Requires at least: 2.0.2
 Tested up to: 2.5.1
-Stable tag: 2.93
+Stable tag: 2.94
 
 == Description ==
 The Social Bookmarking RELOADED plugin for WordPress adds a list of XHTML compliant graphic links at the end of your posts and/or pages that allow your visitors to easily submit them in a number of social bookmarking sites.
 Furthermore, the plugin adds a page in the WordPress admin section that lets you customize it. 
 
 Social Bookmarking RELOADED support the list below:
-The following 53 sites are supported: Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Yahoo My Web, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Spurl, Netvouz, Rojo, Blogmarks, Shadows, Simpy, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, smarking, linkagogo, del.irio.us (need impr), Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu, FaceBook, Upnews, Wikio, HealthRanker, Barrapunto, Notizieflash, Kipapa, Fai informazione, Blogmemes, Blogsphere news, Blogsvine, Mixx, Scoopeo.
+The following 54 sites are supported: Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Yahoo My Web, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Spurl, Netvouz, Rojo, Blogmarks, Shadows, Simpy, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, smarking, linkagogo, del.irio.us (need impr), Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu, FaceBook, Upnews, Wikio, HealthRanker, Barrapunto, Notizieflash, Kipapa, Fai informazione, Blogmemes, Blogsphere news, Blogsvine, Mixx, Scoopeo, Myspace.
 
 In plugin .zip file, there is a pdf file about installation, usage of Social Bookmarking Reloaded in english, italian and spanish.
 
-What is new in version Social Bookmarking RELOADED 2.93
+What is new in version Social Bookmarking RELOADED 2.94
 
-Other eight social services added.
+Myspace added.
 
 [Sites which use Social Bookmarking reloaded](http://valent-blog.eu/social-bookmarking-reloaded/)
 
