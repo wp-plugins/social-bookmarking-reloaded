@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	Social Bookmarking RELOADED
-      Version: 2.93
+      Version: 2.94
 	http://www.valent-blog.eu
       Modificato da valent
       http://www.valent-blog.eu
@@ -366,7 +366,12 @@
 	<img>myspace.png</img>
 	<key>myspace</key>
     </site>
-
+<site>
+        <name>ZicZac</name>
+	<url>http://ziczac.it/a/segnala/?gurl={link}&amp;gtit={title}</url>
+	<img>ziczac.png</img>
+	<key>ziczac</key>
+    </site>
 <site>
         <name>Social Bookmarking Reloaded</name>
 	<url>http://valent-blog.eu/social-bookmarking-reloaded/</url>
