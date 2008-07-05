@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	Social Bookmarking RELOADED
-      Version: 2.95
+      Version: 2.96
 	http://www.valent-blog.eu
       Modificato da valent
       http://www.valent-blog.eu
@@ -373,7 +373,6 @@
 	<key>ziczac</key>
     </site>
 <site>
-<site>
         <name>Plim</name>
 	<url>http://www.plim.it/submit.php?url={link}&amp;title={title}</url>
 	<img>plim.png</img>
@@ -391,6 +390,18 @@
 	<url>http://twitthis.com/twit?url={link}</url>
 	<img>twitter.png</img>
 	<key>twitter</key>
+    </site>
+<site>
+        <name>Technotizie</name>
+	<url>http://www.technotizie.it/posta_ok?action=f2&amp;title={title}&amp;url={link}</url>
+	<img>technotizie.png</img>
+	<key>technotizie</key>
+    </site>
+<site>
+        <name>BlueDot</name>
+	<url>http://bluedot.us/Authoring.aspx?>u={link}&amp;title={title}</url>
+	<img>bluedot.png</img>
+	<key>bluedot</key>
     </site>
 <site>
         <name>Social Bookmarking Reloaded</name>

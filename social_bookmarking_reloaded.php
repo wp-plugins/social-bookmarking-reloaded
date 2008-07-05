@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Social Bookmarking RELOADED
-Version: 2.95
+Version: 2.96
 Plugin URI: http://www.valent-blog.eu/social-bookmarking-reloaded/
 Author: valent
 Author URI: http://www.valent-blog.eu/
-Description: Social Bookmarking RELOADED - Add the social bookmarks services's icons to your articles in your blogs in order to submit them easily. Plugin based on <a href="http://www.dountsis.com/" title="Visit Dountsis page" target="_blank">Apostolos Dountsis</a> one
+Description: Social Bookmarking RELOADED - Add the social bookmarks services's icons to your articles in your blogs in order to submit them easily. Plugin based on Apostolos Dountsis one.
 IMPORTANT: This plugin is based on Social Bookmarks 3.2 by Apostolos Dountsis
 
 
@@ -45,7 +45,7 @@ class social_bookmarks
 		
 
 		// Default Settings
-		$this->default_settings = array('sbb_sites' => 'delicious|digg|furl|blinklist|reddit|feed_me|technorati|yahoo|newsvine|socializer|magnolia|stumbleupon|google|rawsugar|squidoo|spurl|blinkbits|netvouz|rojo|blogmarks|shadows|simpy|comments|scuttle|bloglines|tailrank|scoopeo|blogmemes|blogspherenews|blogsvine|mixx|netscape|ask|smarking|linkagogo|delirious|socialdust|live|slashdot|sphinn|facebook|myspace|healthranker|barrapunto|twitter|indianpad|segnalo|oknotizie|diggita|seotribu|upnews|wikio|notizieflash|kipapa|fai_informazione|bookmark_it|ziczac|plim|sbr',							'sbb_label' => 'Segnala presso:',
+		$this->default_settings = array('sbb_sites' => 'delicious|digg|furl|blinklist|reddit|feed_me|technorati|yahoo|newsvine|socializer|magnolia|stumbleupon|google|rawsugar|squidoo|spurl|blinkbits|netvouz|rojo|blogmarks|shadows|simpy|comments|scuttle|bloglines|tailrank|scoopeo|blogmemes|blogspherenews|blogsvine|mixx|netscape|ask|smarking|linkagogo|delirious|socialdust|live|slashdot|sphinn|facebook|myspace|healthranker|barrapunto|twitter|indianpad|bluedot|segnalo|oknotizie|diggita|seotribu|upnews|wikio|notizieflash|kipapa|fai_informazione|bookmark_it|ziczac|plim|technotizie|sbr',							'sbb_label' => 'Segnala presso:',
 							'sbb_target' => 'new',
 							'sbb_pages_excluded' => 'none',
 							'sbb_lines' => 2,

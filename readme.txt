@@ -12,13 +12,13 @@ The Social Bookmarking RELOADED plugin for WordPress adds a list of XHTML compli
 Furthermore, the plugin adds a page in the WordPress admin section that lets you customize it. 
 
 Social Bookmarking RELOADED support the list below:
-The following 59 sites are supported: Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Yahoo My Web, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Spurl, Netvouz, Rojo, Blogmarks, Shadows, Simpy, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, smarking, linkagogo, del.irio.us (need impr), Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu, FaceBook, Upnews, Wikio, HealthRanker, Barrapunto, Notizieflash, Kipapa, Fai informazione, Blogmemes, Blogsphere news, Blogsvine, Mixx, Scoopeo, Myspace, ZicZac, Twitter, Plim, IndianPad.
+The following 60 sites are supported: Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Yahoo My Web, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Spurl, Netvouz, Rojo, Blogmarks, Shadows, Simpy, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, smarking, linkagogo, del.irio.us (need impr), Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu, FaceBook, Upnews, Wikio, HealthRanker, Barrapunto, Notizieflash, Kipapa, Fai informazione, Blogmemes, Blogsphere news, Blogsvine, Mixx, Scoopeo, Myspace, ZicZac, Twitter, Plim, IndianPad, Technotizie, Blue Dot.
 
 In plugin .zip file, there is a pdf file about installation, usage of Social Bookmarking Reloaded in english, italian and spanish.
 
-What is new in version Social Bookmarking RELOADED 2.95
+What is new in version Social Bookmarking RELOADED 2.96
 
-Twitter, Plim and IndianPad added.
+Technotizie and Blue dot added.
 
 [Sites which use Social Bookmarking reloaded](http://valent-blog.eu/social-bookmarking-reloaded/)
 
