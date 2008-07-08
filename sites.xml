@@ -403,6 +403,20 @@
 	<img>bluedot.png</img>
 	<key>bluedot</key>
     </site>
+
+<site>
+        <name>Diggitsport</name>
+	<url>http://www.diggitsport.com/posta_ok?action=f2&amp;title={title}&amp;url={link}</url>
+	<img>diggitsport.png</img>
+	<key>diggitsport</key>
+    </site>
+<site>
+        <name>Connotea</name>
+	<url>http://www.connotea.org/addpopup?continue=confirm&amp;uri={link}&amp;title={title}</url>
+	<img>connotea.png</img>
+	<key>connotea</key>
+    </site>
+
 <site>
         <name>Social Bookmarking Reloaded</name>
 	<url>http://valent-blog.eu/social-bookmarking-reloaded/</url>
