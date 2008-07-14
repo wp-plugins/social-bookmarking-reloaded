@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	Social Bookmarking RELOADED
-      Version: 2.96
+      Version: 2.98
 	http://www.valent-blog.eu
       Modificato da valent
       http://www.valent-blog.eu
@@ -121,13 +121,6 @@
     </site>
 
    <site>
-        <name>Spurl</name>
-	<url>http://www.spurl.net/spurl.php?url={link}&amp;title={title}&amp;v=3&amp;blocked={title}</url>
-	<img>spurl.png</img>
-	<key>spurl</key>
-    </site>
-
-   <site>
         <name>BlinkBits</name>
 	<url>http://blinkbits.com/bookmarklets/save.php?v=1&amp;source_url={link}&amp;title={title}</url>
 	<img>blinkbits.png</img>
@@ -153,13 +146,6 @@
 	<url>http://blogmarks.net/my/new.php?mini=1&amp;simple=1&amp;url={link}&amp;title={title}</url>
 	<img>bmarks.png</img>
 	<key>blogmarks</key>
-    </site>
-
-   <site>
-        <name>Shadows</name>
-	<url>http://www.shadows.com/shadows.aspx?url={link}</url>
-	<img>shadows.png</img>
-	<key>shadows</key>
     </site>
 
    <site>
@@ -214,7 +200,7 @@
 <site>
         <name>Bookmark.it</name>
 	<url>http://www.bookmark.it/bookmark.php?url={link}</url>
-	<img>bookmark.gif</img>
+	<img>bookmark.png</img>
 	<key>bookmark_it</key>
     </site>
 
@@ -226,12 +212,6 @@
     </site>
 
 <site>
-        <name>Smarking</name>
-	<url>http://smarking.com/editbookmark/?url={link}&amp;title={title}</url>
-	<img>smarking.png</img>
-	<key>smarking</key>
-    </site>
-<site>
         <name>Linkagogo</name>
 	<url>http://www.linkagogo.com/go/AddNoPopup?url={link}&amp;title={title}</url>
 	<img>linkagogo.png</img>
@@ -240,7 +220,7 @@
 
 <site>
         <name>Delirious</name>
-	<url>http://de.lirio.us/rubric/post?uri={link}</url>
+	<url>http://de.lirio.us/rubric/post?uri={link}&amp;title={title}&amp;when_done=go_back</url>
 	<img>delirious.png</img>
 	<key>delirious</key>
     </site>
@@ -416,7 +396,18 @@
 	<img>connotea.png</img>
 	<key>connotea</key>
     </site>
-
+<site>
+        <name>Leonaut</name>
+	<url>http://www.leonaut.com/submit.php?url={link}</url>
+	<img>leonaut.png</img>
+	<key>leonaut</key>
+    </site>
+<site>
+        <name>Mister-Wong</name>
+	<url>http://www.mister-wong.com/addurl/?bm_url={link}&amp;bm_description={title}</url>
+	<img>misterwong.png</img>
+	<key>misterwong</key>
+    </site>
 <site>
         <name>Social Bookmarking Reloaded</name>
 	<url>http://valent-blog.eu/social-bookmarking-reloaded/</url>
