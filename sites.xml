@@ -178,7 +178,7 @@
 
 <site>
         <name>Segnalo</name>
-	<url>http://segnalo.com/post.html.php?url={link}&amp;title={title}</url>
+	<url>http://segnalo.alice.it/post.html.php?url={link}&amp;title={title}</url>
 	<img>segnalo.png</img>
 	<key>segnalo</key>
     </site>
@@ -353,8 +353,8 @@
 	<key>ziczac</key>
     </site>
 <site>
-        <name>Plim</name>
-	<url>http://www.plim.it/submit.php?url={link}&amp;title={title}</url>
+        <name>Plimsocial</name>
+	<url>http://plimsocial.com/submit.php?url={link}&amp;title={title}</url>
 	<img>plim.png</img>
 	<key>plim</key>
     </site>
