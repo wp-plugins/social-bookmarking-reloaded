@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	Social Bookmarking RELOADED
-      Version: 2.98
+      Version: 2.999
 	http://www.valent-blog.eu
       Modificato da valent
       http://www.valent-blog.eu
@@ -264,7 +264,7 @@
     </site>
 <site>
         <name>FaceBook</name>
-	<url>http://www.facebook.com/share.php?u={link}</url>
+	<url>http://www.facebook.com/share.php?u={link}&amp;t={title}</url>
 	<img>facebook.png</img>
 	<key>facebook</key>
     </site>
@@ -367,7 +367,7 @@
 
 <site>
         <name>Twitter</name>
-	<url>http://twitthis.com/twit?url={link}</url>
+	<url>http://twitter.com/home?status={link}</url>
 	<img>twitter.png</img>
 	<key>twitter</key>
     </site>
