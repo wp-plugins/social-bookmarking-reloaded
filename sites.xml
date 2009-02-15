@@ -409,11 +409,16 @@
 	<key>misterwong</key>
     </site>
 <site>
+        <name>Tipd</name>
+	<url>http://tipd.com/submit.php?url={link}</url>
+	<img>tipd.png</img>
+	<key>tipd</key>
+    </site>
+
+<site>
         <name>Social Bookmarking Reloaded</name>
 	<url>http://valent-blog.eu/social-bookmarking-reloaded/</url>
 	<img>sbr.png</img>
 	<key>sbr</key>
     </site>
-
-
 </social_sites>
