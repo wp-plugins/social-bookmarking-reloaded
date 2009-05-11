@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Social Bookmarking RELOADED
-Version: 2.99d
+Version: 3
 Plugin URI: http://www.valent-blog.eu/social-bookmarking-reloaded/
 Author: valent
 Author URI: http://www.valent-blog.eu/
