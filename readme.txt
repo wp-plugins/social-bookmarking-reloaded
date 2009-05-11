@@ -15,7 +15,7 @@ Social Bookmarking RELOADED support the list below:
 The following 61 sites are supported: Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Netvouz, Rojo, Blogmarks, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, linkagogo, del.irio.us, Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu, FaceBook, Upnews, Wikio, HealthRanker, Barrapunto, Notizieflash, Kipapa, Fai informazione, Blogmemes, Blogsphere news, Blogsvine, Mixx, Scoopeo, Myspace, ZicZac, Twitter, Plim, IndianPad, Technotizie, Blue Dot, Connotea, Diggitsport, Tipd.
 
 In plugin .zip file, there is a pdf file about installation, usage of Social Bookmarking Reloaded in english, italian and spanish.
-Thank to [Integratori dietetici](http://www.fitshop.it/)
+Thank to [Pedana Vibrante](http://www.fitshop.it/)
 
 What is new in version Social Bookmarking RELOADED 3
 
