@@ -414,6 +414,12 @@
 	<img>tipd.png</img>
 	<key>tipd</key>
     </site>
+<site>
+        <name>Addalo</name>
+	<url>http://addalo.it/submit.php?url={link}&amp;title={title}</url>
+	<img>addalo.png</img>
+	<key>addalo</key>
+    </site>
 
 <site>
         <name>Social Bookmarking Reloaded</name>
@@ -421,4 +427,6 @@
 	<img>sbr.png</img>
 	<key>sbr</key>
     </site>
+
+
 </social_sites>
