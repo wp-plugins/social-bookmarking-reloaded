@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Social Bookmarking RELOADED
-Version: 3.02
+Version: 3.03
 Plugin URI: http://www.valent-blog.eu/social-bookmarking-reloaded/
 Author: valent
 Author URI: http://www.valent-blog.eu/
@@ -45,7 +45,8 @@ class social_bookmarks
 		
 
 		// Default Settings
-		$this->default_settings = array('sbb_sites' => 'delicious|digg|furl|blinklist|reddit|feed_me|technorati|newsvine|socializer|magnolia|stumbleupon|google|rawsugar|squidoo|blinkbits|netvouz|rojo|blogmarks|simpy|comments|scuttle|bloglines|tailrank|scoopeo|blogmemes|blogspherenews|blogsvine|mixx|netscape|ask|linkagogo|delirious|socialdust|live|slashdot|sphinn|facebook|myspace|healthranker|connotea|misterwong|barrapunto|twitter|indianpad|bluedot|segnalo|oknotizie|diggita|seotribu|upnews|wikio|notizieflash|kipapa|fai_informazione|bookmark_it|ziczac|plim|technotizie|diggitsport|tipd|addalo|sbr',							'sbb_label' => 'Segnala presso:',
+		$this->default_settings = array('sbb_sites' => 'delicious|digg|furl|blinklist|reddit|feed_me|technorati|newsvine|socializer|magnolia|stumbleupon|google|rawsugar|squidoo|blinkbits|netvouz|rojo|blogmarks|simpy|comments|scuttle|bloglines|tailrank|scoopeo|blogmemes|blogspherenews|blogsvine|mixx|netscape|ask|linkagogo|delirious|socialdust|live|slashdot|sphinn|facebook|myspace|healthranker|connotea|misterwong|barrapunto|twitter|indianpad|bluedot|segnalo|oknotizie|diggita|seotribu|upnews|wikio|notizieflash|kipapa|fai_informazione|bookmark_it|ziczac|plim|technotizie|diggitsport|tipd|addalo|forexassessment|sbr',		
+							'sbb_label' => 'Segnala presso:',
 							'sbb_target' => 'new',
 							'sbb_pages_excluded' => 'none',
 							'sbb_lines' => 2,
