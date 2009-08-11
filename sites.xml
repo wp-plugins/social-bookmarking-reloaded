@@ -271,7 +271,7 @@
 <site>
 
         <name>Forex Social News</name>
-	<url>http://www.forexassessment.com/submit.php?url={link}&amp;title={title}</url>
+	<url>http://www.forexassessment.com/submit.php?url={link}</url>
 	<img>forexassessment.png</img>
 	<key>forexassessment</key>
     </site>
