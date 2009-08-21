@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Social Bookmarking RELOADED
-Version: 3.03
+Version: 3.05
 Plugin URI: http://www.valent-blog.eu/social-bookmarking-reloaded/
 Author: valent
 Author URI: http://www.valent-blog.eu/
-Description: Social Bookmarking RELOADED - Add the social bookmarks services's icons to your articles in your blogs in order to submit them easily. Plugin based on Apostolos Dountsis one. Ringrazio Fitshop per il suo aiuto <a href="http://www.fitshop.it" title="Le migliori pedane vibranti a prezzi scontatissimi">Pedana vibrante</a>.
+Description: Social Bookmarking RELOADED - Add the social bookmarks services's icons to your articles in your blogs in order to submit them easily. Plugin based on Apostolos Dountsis one.
 IMPORTANT: This plugin is based on Social Bookmarks 3.2 by Apostolos Dountsis
 
 
