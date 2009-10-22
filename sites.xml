@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	Social Bookmarking RELOADED
-      Version: 3.06
+      Version: 3.07
 	http://www.valent-blog.eu
       Modificato da valent
       http://www.valent-blog.eu
@@ -427,7 +427,13 @@
 	<img>addalo.png</img>
 	<key>addalo</key>
     </site>
+<site>
 
+<name>FriendFeed</name>
+	<url>http://friendfeed.com/share/bookmarklet/frame#title={titleff}&amp;url={link}</url>
+	<img>friendfeed.png</img>
+	<key>friendfeed</key>
+    </site>
 <site>
         <name>Social Bookmarking Reloaded</name>
 	<url>http://valent-blog.eu/social-bookmarking-reloaded/</url>
