@@ -4,7 +4,7 @@ Contributors: vfvalent
 Tags: bookmarks, bookmarking, social, delicious, Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Netvouz, Rojo, Blogmarks, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, linkagogo, del.irio.us, Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu, FaceBook, Upnews, wikio, barrapunto, healthranker, notizieflash, kipapa, fai informazione, blogmemes, blogsphere news, blogsvine, mixx, scoopeo, myspaces, ziczac, twitter, plim, indianpad, technotizie, bluedot, connotea, diggitsport, mister wong, leonaut, tipd, addalo, forex social news.
 Requires at least: 2.0.2
 Tested up to: 2.8.5
-Stable tag: 3.08
+Stable tag: 3.09
 
 == Description ==
 The Social Bookmarking RELOADED plugin for WordPress adds a list of XHTML compliant graphic links at the end of your posts and/or pages that allow your visitors to easily submit them in a number of social bookmarking sites.
@@ -14,7 +14,7 @@ Social Bookmarking RELOADED support the list below:
 The following sites are supported: Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Netvouz, Rojo, Blogmarks, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, linkagogo, del.irio.us, Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, Seotribu, FaceBook, Upnews, Wikio, HealthRanker, Barrapunto, Notizieflash, Kipapa, Fai informazione, Blogmemes, Blogsphere news, Blogsvine, Mixx, Scoopeo, Myspace, ZicZac, Twitter, Plim, IndianPad, Technotizie, Blue Dot, Connotea, Diggitsport, Tipd, forexassessment, FriendFeed.
 
 In plugin .zip file, there is a pdf file about installation, usage of Social Bookmarking Reloaded in english, italian and spanish.
-Thank to [Directory](http://www.qooqle.it), [quotazione oro](http://www.scalpingonline.com/borsa.asp?p=quotazione-oro), [GeekTwice](http://geektwice.com/), [Offerte di lavoro](http://www.worky.biz/) and [Forex](http://www.financeaggregator.com/)
+Thank to [Directory](http://www.qooqle.it), [quotazione oro](http://www.scalpingonline.com/borsa.asp?p=quotazione-oro), [GeekTwice](http://geektwice.com/), [Offerte di lavoro](http://www.worky.biz/), [bacheca annunci gratuiti](http://www.bachecaweb.eu/) and [Forex](http://www.financeaggregator.com/)
 
 
 == Installation ==
@@ -52,7 +52,11 @@ Social Bookmarks 3.2
 
 == Changelog ==
 
-= 3.07 =
+= 3.09 =
+* Remove some not working sites.
+* Change Netscape icon with Propeller one.
+
+= 3.08 =
 * Check compatibility with lastest version of WP.
 
 
