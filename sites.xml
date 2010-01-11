@@ -257,10 +257,10 @@
 	<key>diggita</key>
     </site>
 <site>
-        <name>Seotribu</name>
-	<url>http://www.seotribu.com/submit.php?title={title}&amp;url={link}</url>
-	<img>seotribu.png</img>
-	<key>seotribu</key>
+        <name>Digo</name>
+	<url>http://www.digo.it/submit.php?title={title}&amp;url={link}</url>
+	<img>digo.png</img>
+	<key>digo</key>
     </site>
 <site>
         <name>FaceBook</name>
