@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	Social Bookmarking RELOADED
-      Version: 3.09
+      Version: 3.11
 	http://www.valent-blog.eu
       Modificato da valent
       http://www.valent-blog.eu
@@ -404,13 +404,7 @@
 	<key>connotea</key>
     </site>
 <site>
-        <name>Leonaut</name>
-	<url>http://www.leonaut.com/submit.php?url={link}</url>
-	<img>leonaut.png</img>
-	<key>leonaut</key>
-    </site>
-<site>
-        <name>Mister-Wong</name>
+               <name>Mister-Wong</name>
 	<url>http://www.mister-wong.com/addurl/?bm_url={link}&amp;bm_description={title}</url>
 	<img>misterwong.png</img>
 	<key>misterwong</key>
