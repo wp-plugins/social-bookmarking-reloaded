@@ -14,7 +14,7 @@ Social Bookmarking RELOADED support the list below:
 The following sites are supported: Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Ma.gnolia, Google Bookmarks, GOOGLE BUZZ, Squidoo, BlinkBits, Stumble Upon, RawSugar, Netvouz, Rojo, Blogmarks, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, linkagogo, del.irio.us, Socialdust, Live MSN, Slashdot, Sphinn, Diggita, FaceBook, Upnews, Wikio, HealthRanker, Barrapunto, Notizieflash, Kipapa, Fai informazione, Blogmemes, Blogsphere news, Blogsvine, Mixx, Scoopeo, Myspace, ZicZac, Twitter, Plim, IndianPad, Technotizie, Blue Dot, Connotea, Diggitsport, Tipd, forexassessment, FriendFeed, digo, buzz.
 
 In plugin .zip file, there is a pdf file about installation, usage of Social Bookmarking Reloaded in english, italian and spanish.
-Thank to [Directory](http://www.qooqle.it),  [GeekTwice](http://geektwice.com/), Inserisci i tuoi [annunci gratuiti](http://www.bachecaweb.eu/) dentro bacheca web, [Texas Hold'em](http://www.texasholdemania.it/),
+Thank to [Directory](http://www.qooqle.it),  [GeekItaly](http://geekitaly.com/), Inserisci i tuoi [annunci gratuiti](http://www.bachecaweb.eu/) dentro bacheca web, [Texas Hold'em](http://www.texasholdemania.it/),
 [Web Designer & Sem Consultant - giapox](http://www.giapox.it/giapox/).
 
 
