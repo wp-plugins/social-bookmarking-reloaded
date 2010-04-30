@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 	Social Bookmarking RELOADED
-      Version: 3.14
+      Version: 3.16
 	http://www.valent-blog.eu
       Modificato da valent
       http://www.valent-blog.eu
@@ -104,13 +104,6 @@
 	<url>http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk={link}&amp;title={title}</url>
 	<img>google.png</img>
 	<key>google</key>
-    </site>
-
-   <site>
-        <name>RawSugar</name>
-	<url>http://www.rawsugar.com/tagger/?turl={link}&amp;tttl={title}</url>
-	<img>rawsugar.png</img>
-	<key>rawsugar</key>
     </site>
 
    <site>
