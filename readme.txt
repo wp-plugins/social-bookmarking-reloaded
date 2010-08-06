@@ -3,8 +3,8 @@
 Contributors: vfvalent
 Tags: bookmarks, bookmarking, social, delicious, Del.icio.us, digg, FURL, blinklist, Socializer, reddit, Feed Me Links!, Technorati, Newsvine, Ma.gnolia, Google Bookmarks, Squidoo, BlinkBits, Stumble Upon, RawSugar, Netvouz, Rojo, Blogmarks, Co.mments, Scuttle, Tailrank, Bloglines, Segnalo, OkNotizie, Netscape, Bookmark.it, Ask, linkagogo, del.irio.us, Socialdust, Live - MSN, Slashdot, Sphinn, Diggita, FaceBook, Upnews, wikio, barrapunto, healthranker, notizieflash, kipapa, fai informazione, blogmemes, blogsphere news, blogsvine, mixx, scoopeo, myspaces, ziczac, twitter, plim, indianpad, technotizie, bluedot, connotea, diggitsport, mister wong, leonaut, tipd, addalo, forex social news, digo.
 Requires at least: 2.0.2
-Tested up to: 3.0
-Stable tag: 3.2
+Tested up to: 3.0.1
+Stable tag: 3.17
 
 == Description ==
 The Social Bookmarking RELOADED plugin for WordPress adds a list of XHTML compliant graphic links at the end of your posts and/or pages that allow your visitors to easily submit them in a number of social bookmarking sites.
@@ -52,8 +52,8 @@ Social Bookmarks 3.2
 
 == Changelog ==
 
-= 3.2 =
-* Add Facebook I like it button
+= 3.17 =
+* Some testing.
 
 = 3.16 =
 * Remove some not-working social like rawsugar and forgotten plim icon.
