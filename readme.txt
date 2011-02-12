@@ -52,6 +52,8 @@ Social Bookmarks 3.2
 
 == Changelog ==
 
+Courtesy of [film streaming](http://www.cinerip.com/).
+
 = 3.17 =
 * Some testing.
 
