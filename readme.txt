@@ -52,7 +52,7 @@ Social Bookmarks 3.2
 
 == Changelog ==
 
-Courtesy of [film streaming](http://www.cinerip.com/).
+Courtesy of [film streaming](http://www.cinerip.com/) and [free sms Italy](http://www.riccardogalletti.com/sms_gratis/invio_sms.html).
 
 = 3.17 =
 * Some testing.
