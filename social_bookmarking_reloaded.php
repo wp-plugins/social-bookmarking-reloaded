@@ -5,7 +5,7 @@ Version: 3.18
 Plugin URI: http://www.valent-blog.eu/social-bookmarking-reloaded/
 Author: valent
 Author URI: http://www.valent-blog.eu/
-Description: Social Bookmarking RELOADED - Add social bookmarks service icons to your blog articles in order to submit them easily. Based on Apostolos Dountsis' plugin.
+Description: Social Bookmarking RELOADED - Add social bookmarks service icons to your blog articles in order to submit them easily. Based on Apostolos Dountsis plugin.
 IMPORTANT: This plugin is based on Social Bookmarks 3.2 by Apostolos Dountsis
 
 
