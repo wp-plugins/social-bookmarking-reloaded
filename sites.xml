@@ -261,13 +261,7 @@
 	<img>facebook.png</img>
 	<key>facebook</key>
     </site>
-<site>
 
-        <name>Forex Social News</name>
-	<url>http://www.forexassessment.com/submit.php?url={link}</url>
-	<img>forexassessment.png</img>
-	<key>forexassessment</key>
-    </site>
 <site>
         <name>Upnews</name>
 	<url>http://www.upnews.it/submit?url={link}&amp;title={title}</url>
@@ -280,12 +274,7 @@
 	<img>wikio.png</img>
 	<key>wikio</key>
     </site>
-<site>
-        <name>Health Ranker</name>
-	<url>http://healthranker.com/submit.php?url={link}</url>
-	<img>healthranker.gif</img>
-	<key>healthranker</key>
-    </site>
+
 <site>
         <name>Barrapunto</name>
 	<url>http://barrapunto.com/submit.pl?subj={title}&amp;story={link}</url>
@@ -298,12 +287,7 @@
 	<img>notizieflash.png</img>
 	<key>notizieflash</key>
     </site>
-<site>
-        <name>Kipapa</name>
-	<url>http://kipapa.it/add.php?title={title}&amp;url={link}</url>
-	<img>kipapa.png</img>
-	<key>kipapa</key>
-    </site>
+
 <site>
         <name>Fai informazione</name>
 	<url>http://fai.informazione.it/submit.aspx?url={link}&amp;title={title}</url>
@@ -328,12 +312,7 @@
 	<img>blogsvine.png</img>
 	<key>blogsvine</key>
     </site>
-<site>
-        <name>Mixx</name>
-	<url>http://www.mixx.com/submit?page_url={link}&amp;title={title}</url>
-	<img>mixx.png</img>
-	<key>mixx</key>
-    </site>
+
 <site>
         <name>Scoopeo</name>
 	<url>http://www.scoopeo.com/scoop/new?newurl={link}&amp;title={title}</url>
