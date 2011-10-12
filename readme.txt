@@ -52,7 +52,6 @@ Social Bookmarks 3.2
 
 == Changelog ==
 
-Courtesy of [free sms Italy](http://www.riccardogalletti.com/sms_gratis/invio_sms.html).
 
 = 3.18 =
 * Remove some unactive services.
